@@ -8,9 +8,9 @@ I respect and value your privacy. This Privacy Policy describes how I handle and
 
 My Google Chrome Extensions do not collect any personal information from users. I do not gather, store, or transmit any data that can be used to personally identify you, such as your name, email address, or location. Since no data is collected, none of your data is sold to third parties.
 
-## Links to Other Websites
+## Other Websites and Providers
 
-My Google Chrome Extensions may contain links to other websites not operated by me. This Privacy Policy does not cover how that website processes personal information. I encourage you to review the Privacy Policy of every website that you visit.
+My Google Chrome Extensions may contain links to other websites not operated by me. This Privacy Policy does not cover how that website processes personal information. I encourage you to review the Privacy Policy of every website that you visit.  
 External stateless API calls are made to trusted third party providers, such as:
 - [OpenStreetMap](https://osmfoundation.org/wiki/Privacy_Policy)
 - [OpenAI](https://openai.com/it-IT/policies/row-privacy-policy/)
